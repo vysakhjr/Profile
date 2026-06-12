@@ -1,210 +1,286 @@
-# Hi there 👋, I'm Vysakh R
-
 <div align="center">
 
-### 🚀 Site Reliability Engineer | Linux Engineer | Cloud & DevOps Enthusiast
+# 👋 Hi, I'm Vysakh R
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vysakh-r-b04157171)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/vysakhjr)
-[![AWS](https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws)]
-[![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red?style=for-the-badge&logo=redhat)]
+### Site Reliability Engineer | Linux Engineer | Cloud & Automation Enthusiast
+
+<p>
+Building reliable systems, automating repetitive work, and solving production problems at scale.
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vysakh_R-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vysakh-r-b04157171)
+[![GitHub](https://img.shields.io/badge/GitHub-vysakhjr-black?style=for-the-badge&logo=github)](https://github.com/vysakhjr)
+[![AWS](https://img.shields.io/badge/AWS-SAA-orange?style=for-the-badge&logo=amazonaws)]
+[![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red?style=for-the-badge&logo=redhat)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-🔹 Site Reliability Engineer with **5+ years of experience** in Linux infrastructure, cloud operations, incident response, and automation.
+I'm a Site Reliability Engineer with 5+ years of experience managing Linux-based production infrastructure, cloud environments, automation platforms, and incident response operations.
 
-🔹 Passionate about building reliable, scalable, and automated systems.
+My focus is on improving system reliability through automation, observability, root cause analysis, and operational excellence.
 
-🔹 Experienced in managing **large-scale production environments**, reducing operational toil, improving observability, and driving incident resolution.
+### What I Do
 
-🔹 Strong background in Linux administration, AWS, Kubernetes, Terraform, Ansible, and Infrastructure Automation.
-
-🔹 Interested in:
-- Cloud Infrastructure ☁️
-- Site Reliability Engineering 🔥
-- Kubernetes & Container Platforms 🚢
-- Infrastructure as Code 🏗️
-- Automation Engineering 🤖
-- Observability & Monitoring 📊
+- ☁️ Cloud Infrastructure Engineering
+- ⚙️ Infrastructure Automation
+- 🔥 Incident Response & Incident Command
+- ☸️ Kubernetes & Container Platforms
+- 📊 Monitoring & Observability
+- 🐧 Linux Platform Engineering
+- 🏗️ Infrastructure as Code
+- 🚀 DevOps & CI/CD
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Impact Delivered
 
-### Programming & Automation
+| Achievement | Result |
+|------------|---------|
+| Linux Servers Managed | 350+ |
+| Splunk Upgrades Automated | 2000+ Servers |
+| Operational Toil Reduction | 80% |
+| Downtime Reduction via Automation | 90% |
+| MTTR Improvement | 25% |
+| Production Support Experience | 5+ Years |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
-![Shell Script](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash)
+---
 
-### Operating Systems
+## 🛠️ Technology Stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian)
+### Languages & Automation
 
-### Cloud Platforms
+```text
+Python
+Bash
+Shell Scripting
+```
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+### Cloud
+
+```text
+AWS
+GCP
+```
 
 ### Containers & Orchestration
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+```text
+Docker
+Kubernetes
+```
 
 ### Infrastructure as Code
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+```text
+Terraform
+Ansible
+```
 
-### DevOps Tools
+### CI/CD & DevOps
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+```text
+Jenkins
+Git
+GitHub Actions
+```
+
+### Linux Platforms
+
+```text
+RHEL
+CentOS
+Debian
+```
 
 ### Monitoring & Observability
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
-![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge)
+```text
+Splunk
+Nagios
+Monitoring
+Alerting
+Log Analysis
+```
+
+### Networking
+
+```text
+TCP/IP
+DNS
+HTTP
+DHCP
+SSL/TLS
+VPN
+```
 
 ---
 
-## 📊 Professional Highlights
+## 💼 Professional Experience
 
-### IBM — Site Reliability Engineer
-📍 Bangalore, India | Jan 2025 – Present
+### IBM | Site Reliability Engineer
+📍 Bangalore | Jan 2025 - Present
 
-✅ Maintain reliability of enterprise cloud infrastructure
+- Lead P1-P3 incident response activities
+- Serve as Incident Commander during major outages
+- Conduct Root Cause Analysis and postmortems
+- Improve operational runbooks and troubleshooting workflows
+- Automate repetitive operational activities
+- Troubleshoot Linux, storage, cloud, and networking issues
+- Improve monitoring quality and reduce alert fatigue
 
-✅ Lead P1–P3 incident response and restoration efforts
+### Tata Consultancy Services | Linux System Administrator
+📍 Bangalore | Oct 2020 - Dec 2024
 
-✅ Serve as Incident Commander during critical outages
-
-✅ Reduced MTTR by **25%**
-
-✅ Conduct RCA and postmortem reviews
-
-✅ Troubleshoot Linux, storage, networking, and cloud issues
-
-✅ Improve monitoring quality and reduce alert fatigue
-
-✅ Build automation using Python and Shell scripting
-
----
-
-### Tata Consultancy Services — Linux System Administrator
-📍 Bangalore, India | Oct 2020 – Dec 2024
-
-✅ Managed **350+ Linux servers**
-
-✅ Performed RHEL 7 → RHEL 8 migration with near-zero downtime
-
-✅ Reduced manual effort by **80%** through automation
-
-✅ Reduced downtime by **90%** using self-healing scripts
-
-✅ Automated Splunk upgrades across **2000+ servers**
-
-✅ Managed AWS infrastructure and Linux storage systems
-
-✅ Supported CI/CD and container deployment workflows
+- Managed 350+ enterprise Linux servers
+- Executed large-scale RHEL migration projects
+- Built infrastructure automation using Ansible and Bash
+- Automated Splunk upgrades across 2000+ servers
+- Implemented self-healing operational workflows
+- Managed AWS infrastructure and Linux storage systems
+- Supported CI/CD and containerized deployments
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚙️ Infrastructure Automation Platform
+### 🤖 Infrastructure Automation Platform
 
-Automated Linux server patching and configuration management using:
+Automated Linux administration and configuration management using:
 
 - Ansible
 - Python
 - Bash
 
-**Outcome:** Reduced repetitive operational tasks and improved infrastructure consistency.
+**Outcome:** Reduced manual operational effort and improved deployment consistency.
 
 ---
 
-### ☸️ Kubernetes Microservices Environment
+### ☸️ Kubernetes Microservices Platform
 
-Built a production-style container platform using:
+Built production-style Kubernetes environments using:
 
-- Docker
 - Kubernetes
+- Docker
 - Monitoring & Logging
 
-**Outcome:** Improved understanding of scalable container orchestration and observability.
+**Outcome:** Improved understanding of container orchestration and cloud-native operations.
 
 ---
 
-### 🏗️ Infrastructure as Code Lab
+### ☁️ Terraform Infrastructure Lab
 
-Provisioned cloud infrastructure using:
+Provisioned AWS resources using Infrastructure as Code.
+
+**Technologies**
 
 - Terraform
 - AWS
+- Git
 
-**Outcome:** Repeatable, scalable, and version-controlled infrastructure deployments.
+**Outcome**
+
+- Repeatable Deployments
+- Version Controlled Infrastructure
+- Faster Environment Provisioning
 
 ---
 
-## 📈 Core SRE Competencies
+## 🔥 Core SRE Competencies
 
 ```text
 Incident Management
-Root Cause Analysis (RCA)
+Incident Command
+Root Cause Analysis
 Postmortems
-On-Call Operations
 SLA / SLO Management
-MTTR Reduction
-Infrastructure Automation
-Observability
+Operational Excellence
+On-Call Operations
 Capacity Planning
+Infrastructure Automation
 Production Support
-Linux Troubleshooting
-Cloud Operations
+Reliability Engineering
+Observability
+MTTR Reduction
 ```
+
+---
+
+## 📚 Currently Learning
+
+```yaml
+Focus Areas:
+  - Kubernetes (CKAD)
+  - Advanced Python Automation
+  - Site Reliability Engineering
+  - Terraform Best Practices
+  - Platform Engineering
+```
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Achieve CKAD Certification
+- [ ] Build Advanced Kubernetes Labs
+- [ ] Publish SRE Learning Notes
+- [ ] Contribute to Open Source Projects
+- [ ] Create Reusable Terraform Modules
+- [ ] Build Production-Grade Automation Repository
 
 ---
 
 ## 🏆 Certifications
 
-🥇 Red Hat Certified System Administrator (RHCSA)
+### Red Hat Certified System Administrator (RHCSA)
 
-🥇 AWS Certified Solutions Architect – Associate
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering – Automobile Engineering**
-
-New Horizon College of Engineering
-
-CGPA: **8.88 / 10**
+### AWS Certified Solutions Architect – Associate
 
 ---
 
-## 📫 Let's Connect
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vysakhjr&show_icons=true&theme=transparent" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vysakhjr&layout=compact&theme=transparent" />
+
+</p>
+
+---
+
+## 🏗️ Engineering Philosophy
+
+> Automate repetitive work.
+>
+> Improve reliability continuously.
+>
+> Learn from every incident.
+>
+> Reduce operational toil wherever possible.
+>
+> Build systems that are easy to operate at scale.
+
+---
+
+## 📫 Connect With Me
 
 📧 **r.vysakh98@gmail.com**
 
-💼 **LinkedIn:** https://linkedin.com/in/vysakh-r-b04157171
+🔗 **LinkedIn:**  
+https://linkedin.com/in/vysakh-r-b04157171
 
-💻 **GitHub:** https://github.com/vysakhjr
+💻 **GitHub:**  
+https://github.com/vysakhjr
 
 ---
 
 <div align="center">
 
-### ⚡ Automating Everything That Shouldn't Be Manual
-
-*"Reliability is not a feature. It's a culture."*
+### ⚡ Reliability is not a feature. It's an engineering discipline.
 
 </div>
